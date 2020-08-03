@@ -18,11 +18,12 @@ const makcakaya = {
   tools: [Postman, Swagger, Azure Devops,  Trello, Git, RDBMS, VisualStudio &| Code, Eclipse],
   architecture: ["monolith", "microservices", "test-driven"],
   awardsCertificates: {
-                        trainer1: "Kodluyoruz",
-                        trainer2: "BilgeAdam Academy",
+                        trainer1: "Kodluyoruz .Net Core MVC",
+                        trainer2: "BilgeAdam Academy .Net WCF and Web",
                         specialist: "Microsoft Co."
                       },
-  nextStacks: "AngularJS, Golang..."
+  training: "AngularJS", ".Net Core MVC",                    
+  nextStacks: "Docker", "Kubernetes", "Golang"
 }
 ```
 
