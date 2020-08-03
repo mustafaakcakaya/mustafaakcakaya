@@ -14,7 +14,7 @@
 ```javascript
 const makcakaya = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, Angular, HTML, CSS, C#, T-SQL, Java],
+  code: [Javascript, Typescript, Angular, HTML, CSS, C#, .Net &| Core, T-SQL, Java],
   tools: [Postman, Swagger, Azure Devops, Trello, Git, RDBMS, VisualStudio &| Code, Eclipse],
   architecture: ["monolith", "microservices", "test-driven"],
   awardsCertificates: {
