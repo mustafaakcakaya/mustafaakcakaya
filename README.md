@@ -22,7 +22,8 @@ const makcakaya = {
                         trainer2: "BilgeAdam Academy .Net WCF and Web",
                         specialist: "Microsoft Co."
                       },
-  training: "AngularJS", ".Net Core MVC",                    
+  training: "AngularJS", ".Net Core MVC",
+  readings: "Clean Code - Robert C. Martin","Refactoring - Martin Fowler",
   nextStacks: "Docker", "Kubernetes", "Golang"
 }
 ```
