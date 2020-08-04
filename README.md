@@ -19,9 +19,14 @@ const makcakaya = {
   architecture: ["monolith", "microservices", "test-driven"],
   awardsCertificates: {
                         trainer1: "Kodluyoruz .Net Core MVC",
-                        trainer2: "BilgeAdam Academy .Net WCF and Web",
+                        trainer2: "BilgeAdam Academy .Net Apps and Web",
                         specialist: "Microsoft Co."
                       },
+  joinedTop3Events : {
+                      participant3 : "Serverless Data with AWS's Senior Nader Dabit",
+                      participant  : "Microservices with docker & k8 with Microsoft's MVP",
+                      participant2 : "Istanbul Information Community - 1. Information Summit"                      
+                     }                    
   training: "AngularJS", ".Net Core MVC",
   readings: "Clean Code - Robert C. Martin","Refactoring - Martin Fowler",
   nextStacks: "Docker", "Kubernetes", "Golang"
