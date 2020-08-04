@@ -1,4 +1,4 @@
-<h2> I'm Mustafa Akçakaya! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2>Hi, I'm Mustafa Akçakaya! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/Y5pJPmh9IWMKc/giphy.gif" width="250">
 <p><em>Software Developer in <a href="https://www.google.com/maps/place/%C4%B0stanbul/@41.0052363,28.871753,11z/data=!3m1!4b1!4m5!3m4!1s0x14caa7040068086b:0xe1ccfe98bc01b0d0!8m2!3d41.0082376!4d28.9783589">Istanbul</a></br> Working at <a href="https://www.linkedin.com/company/sosyal-ba%C4%9F%C4%B1%C5%9F/">SosyalBagis</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   <br>Open for Opportunities<img src="https://media.giphy.com/media/12bSyZ2lLVvZ4s/giphy.gif" width="50">
@@ -23,9 +23,9 @@ const makcakaya = {
                         specialist: "Microsoft Co."
                       },
   joinedTop3Events : {
-                      participant3 : "Serverless Data with AWS's Senior Nader Dabit",
-                      participant  : "Microservices with docker & k8 with Microsoft's MVP",
-                      participant2 : "Istanbul Information Community - 1. Information Summit"                      
+                      participant1 : "Serverless Data with AWS's Senior Nader Dabit",
+                      participant2 : "Microservices with docker & k8 with Microsoft's MVP",
+                      participant3 : "Istanbul Information Community - 1. Information Summit"                      
                      }                    
   training: "AngularJS", ".Net Core MVC",
   readings: "Clean Code - Robert C. Martin","Refactoring - Martin Fowler",
