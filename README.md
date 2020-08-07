@@ -26,7 +26,7 @@ const makcakaya = {
                       participant1 : "Serverless Data with AWS's Senior Nader Dabit",
                       participant2 : "Microservices with docker & k8 with Microsoft's MVP",
                       participant3 : "Istanbul Information Community - 1. Information Summit"                      
-                     }                    
+                     },                    
   training: [AngularJS, .Net Core MVC],
   readings: [Clean Code - Robert C. Martin, Refactoring - Martin Fowler],
   nextStacks: [Docker, Kubernetes, Golang]
