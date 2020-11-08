@@ -1,6 +1,6 @@
 <h2>Hi, I'm Mustafa Akçakaya, <!--<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">--></h2>
 <img align='right' src="https://media1.giphy.com/media/PzmDzaJWu4RB3Kaqqv/giphy.gif?cid=ecf05e4702b991ug2rm3oapzdzh63c9cbt6b47pnt654tf1n&rid=giphy.gif" width="250">
-<p><em>Software Developer in <a href="https://www.google.com/maps/place/%C4%B0stanbul/@41.0052363,28.871753,11z/data=!3m1!4b1!4m5!3m4!1s0x14caa7040068086b:0xe1ccfe98bc01b0d0!8m2!3d41.0082376!4d28.9783589">Istanbul</a></br> Working at <a href="https://www.linkedin.com/company/sosyal-ba%C4%9F%C4%B1%C5%9F/">SosyalBagis</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> & <a href="javascript:;">Internative</a>
+<p><em>Software Developer in <a href="https://www.google.com/maps/place/%C4%B0stanbul/@41.0052363,28.871753,11z/data=!3m1!4b1!4m5!3m4!1s0x14caa7040068086b:0xe1ccfe98bc01b0d0!8m2!3d41.0082376!4d28.9783589" target"_blank">Istanbul</a></br> Working at <a href="https://www.linkedin.com/company/sosyal-ba%C4%9F%C4%B1%C5%9F/">SosyalBagis</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> & <a href="javascript:;">Internative</a>
   <!--<br>Open for Opportunities<img src="https://media.giphy.com/media/12bSyZ2lLVvZ4s/giphy.gif" width="50">-->
 </em></p>
 
