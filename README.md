@@ -14,22 +14,22 @@
 ```javascript
 const makcakaya = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, Angular, HTML, CSS, C#, .Net &| Core, T-SQL, Java],
+  code: [Javascript, HTML, CSS, C#, .Net &| Core, T-SQL, Java],
   tools: [Postman, Swagger, Azure Devops, Trello, Git, RDBMS, VisualStudio &| Code, Eclipse],
   architecture: ["monolith", "microservices", "test-driven"],
   awardsCertificates: {
+                        specialist: "Microsoft Co.",
                         trainer1: "Kodluyoruz .Net Core MVC",
-                        trainer2: "BilgeAdam Academy .Net Apps and Web",
-                        specialist: "Microsoft Co."
+                        trainer2: "BilgeAdam Academy .Net Apps and Web"
                       },
   joinedTop3Events : {
                       participant1 : "Serverless Data with AWS's Senior Nader Dabit",
                       participant2 : "Microservices with docker & k8 with Microsoft's MVP",
                       participant3 : "Istanbul Information Community - 1. Information Summit"                      
                      },                    
-  training: [AngularJS, .Net Core MVC],
+  training: [VueJS, .Net Core, .Net Core MVC, Golang],
   readings: [Clean Code - Robert C. Martin, Refactoring - Martin Fowler],
-  nextStacks: [Docker, Kubernetes, Golang]
+  nextStacks: [Docker, Kubernetes]
 }
 ```
 
