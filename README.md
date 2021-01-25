@@ -9,7 +9,7 @@
 </em></p>
 <br>
 
-[![Twitter: MustafaAkcakaya](https://img.shields.io/twitter/follow/mustafaakcakya?style=social)](https://twitter.com/makcakayaDev)
+[![Twitter: MustafaAkcakaya](https://img.shields.io/twitter/follow/makcakayaDev?style=social)](https://twitter.com/makcakayaDev)
 [![Linkedin: mustafaakcakaya](https://img.shields.io/badge/-mustafaakcakaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mustafaakcakaya/)](https://www.linkedin.com/in/mustafaakcakaya//)
 [![GitHub MustafaAkcakaya](https://img.shields.io/github/followers/mustafaakcakaya?label=follow&style=social)](https://github.com/mustafaakcakaya)
 
