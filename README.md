@@ -7,7 +7,7 @@
 <p><em>Software Developer in <a href="https://www.google.com/maps/place/%C4%B0stanbul/@41.0052363,28.871753,11z/data=!3m1!4b1!4m5!3m4!1s0x14caa7040068086b:0xe1ccfe98bc01b0d0!8m2!3d41.0082376!4d28.9783589" target"_blank">Istanbul</a><br> Working for <a href="https://www.logicalbond.com/">LogicalBond</a> & <a href="https://www.linkedin.com/company/sosyal-ba%C4%9F%C4%B1%C5%9F/">SosyalBagis</a>
   <!--<br>Open for Opportunities<img src="https://media.giphy.com/media/12bSyZ2lLVvZ4s/giphy.gif" width="50">-->
 </em></p>
-<br>
+<br><br>
 
 [![Twitter: MustafaAkcakaya](https://img.shields.io/twitter/follow/makcadev?style=social)](https://twitter.com/makcadev)
 [![Linkedin: mustafaakcakaya](https://img.shields.io/badge/-mustafaakcakaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mustafaakcakaya/)](https://www.linkedin.com/in/mustafaakcakaya//)
