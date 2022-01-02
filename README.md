@@ -4,7 +4,7 @@
 <img align='right' src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="411">
 
 
-<p><em>Software Developer in <a href="https://www.google.com/maps/place/%C4%B0stanbul/@41.0052363,28.871753,11z/data=!3m1!4b1!4m5!3m4!1s0x14caa7040068086b:0xe1ccfe98bc01b0d0!8m2!3d41.0082376!4d28.9783589" target"_blank">Istanbul</a><br> Working for <a href="https://www.logicalbond.com/">LogicalBond</a> & <a href="https://www.linkedin.com/company/sosyal-ba%C4%9F%C4%B1%C5%9F/">SosyalBagis</a>
+<p><em>Software Developer in <a href="https://www.google.com/maps/place/%C4%B0stanbul/@41.0052363,28.871753,11z/data=!3m1!4b1!4m5!3m4!1s0x14caa7040068086b:0xe1ccfe98bc01b0d0!8m2!3d41.0082376!4d28.9783589" target"_blank">Istanbul</a><br> Working for <a href="https://hepsiburada.com/">Hepsiburada</a> & <a href="https://www.tesodev.com/">Tesodev</a>
   <!--<br>Open for Opportunities<img src="https://media.giphy.com/media/12bSyZ2lLVvZ4s/giphy.gif" width="50">-->
 </em></p>
 <br><br>
@@ -22,8 +22,8 @@
 ```javascript
 const makcakaya = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, C#, .Net &| Core, T-SQL, Java],
-  tools: [Postman, Swagger, Azure Devops, Trello, Git, RDBMS, VisualStudio &| Code, Eclipse],
+  code: [Golang, Javascript, HTML, CSS, C#, .Net &| Core, T-SQL, Java],
+  tools: [Goland, Postman, Swagger, Azure Devops, Trello, Git, RDBMS, VisualStudio &| Code, Eclipse],
   architecture: ["monolith", "microservices", "test-driven"],
   awardsCertificates: {
                         specialist: "Microsoft Co.",
