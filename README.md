@@ -22,9 +22,15 @@
 ```javascript
 const makcakaya = {
   pronouns: "he" | "him",
-  code: [Golang, Javascript, HTML, CSS, C#, .Net &| Core, T-SQL, Java],
-  tools: [Goland, Postman, Swagger, Azure Devops, Trello, Git, RDBMS, VisualStudio &| Code, Eclipse],
-  architecture: ["monolith", "microservices", "test-driven"],
+  code: [Golang, C#, .Net &| Core, Python, T-SQL, Javascript, React, Vue.js, Java, Kotlin],
+  databases: [PostgreSQL, ClickHouse, SQL Server, Redis, MongoDB, Couchbase],
+  infrastructure: [Docker, Kubernetes, Kafka, RabbitMQ, GitHub Actions, GitLab CI/CD],
+  observability: [Prometheus, Grafana, New Relic, OpenTelemetry, ELK],
+  ai: ["Claude Code agentic workflows", "LLM integration in production (counterfeit-listing detection)"],
+  tools: [Goland, Postman, Swagger, Azure Devops, Trello, Git, VisualStudio &| Code, Eclipse],
+  architecture: ["microservices", "monolith", "clean architecture", "event-driven"],
+  patterns: ["DDD", "CQRS", "transactional outbox + CDC", "strangler fig", "test-driven"],
+  openSource: ["ollama/ollama - app/ui pull request (#17576)"],
   awardsCertificates: {
                         specialist: "Microsoft Co.",
                         trainer1: "Kodluyoruz .Net Core MVC",
@@ -36,8 +42,7 @@ const makcakaya = {
                       participant3 : "Istanbul Information Community - 1. Information Summit"                      
                      },                    
   training: [VueJS, .Net Core, .Net Core MVC, Golang],
-  readings: [Clean Code - Robert C. Martin, Refactoring - Martin Fowler],
-  nextStacks: [Docker, Kubernetes]
+  readings: [Clean Code - Robert C. Martin, Refactoring - Martin Fowler]
 }
 ```
 
