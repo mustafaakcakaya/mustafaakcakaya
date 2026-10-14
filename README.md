@@ -15,17 +15,6 @@ Backend engineer with 6+ years on distributed systems where a wrong number costs
 
 <br clear="right">
 
-### 💼 Experience
-
-- **GoWit** — Senior Backend Engineer *(Sep 2025 – present)*
-  Go web APIs, gRPC services, Kafka consumers and background workers for high-throughput retail-media services; ClickHouse analytics paths on a multi-tenant platform; React features in the product UI.
-- **Trendyol** — Software Engineer, Backend *(Jul 2022 – Apr 2025)*
-  Price, stock and product-detail services at **2M+ transactions per minute** over billions of records; 400+ pod Kubernetes fleets; an LLM-backed counterfeit-listing detection pipeline; a Java → Go migration with the strangler pattern.
-- **Hepsiburada** (via Tesodev) — Backend Developer *(Sep 2021 – Jul 2022)*
-  Go (Echo) + MongoDB services for a new product-as-a-service domain, fully tested with Testify and Mockgen.
-- **Logicalbond** & **Internative** — Full Stack Developer *(Aug 2020 – Aug 2021)*
-  .NET Core Web APIs, Entity Framework, MSSQL, Redis, Hangfire and Vue.js for a B2B e-commerce platform with 100M+ records.
-
 ### A little more about me...
 
 ```javascript
